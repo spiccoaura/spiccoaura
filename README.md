@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Florentina&fontSize=60&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SPICCO D'AURA&fontSize=60&fontColor=fff&animation=twinkling" />
 </p>
 
-<h1 align="center">🤗 Hey, I'm <b>Florentina!</b></h1>
+<h1 align="center">🤗 Hey, I'm <b>Spicco D'Aura!</b></h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=C%23+Developer+%7C+Plugin+Creator+SCP+SL" />
@@ -32,7 +32,7 @@
 
 <h2 align="center">🔗 My Link</h2>
 <p align="center">
-🌍 <a href="https://discord.gg/zCeYX6KFxq">Purgatorium</a> • 
+🌍 <a href="https://discord.gg/RXtEyQ84XX">THETA</a> • 
 </p>
 
 ---
