@@ -32,7 +32,7 @@
 
 <h2 align="center">🔗 My Link</h2>
 <p align="center">
-🌍 <a href="https://discord.gg/RXtEyQ84XX">THETA</a> • 
+🌍 <a href="https://evorp.it">EVO RP FiveM</a> • 
 </p>
 
 ---
